@@ -4,7 +4,7 @@
 <h3 align="center">💻 Computer Engineering Student | 🚀 Frontend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;UI+Designer;Open+Source+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Learner;UI+Designer;&center=true&width=500&height=45">
 </p>
 
 ---
