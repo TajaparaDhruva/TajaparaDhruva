@@ -4,6 +4,22 @@
 
 </div>
 
+<h1 align="center">👋 Hello, I'm Dhruva!</h1>
+
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif">
+
+I'm a **Full Stack Developer** with a passion for building scalable, high-performance web applications. With expertise in modern technologies and a strong foundation in computer science fundamentals, I transform complex problems into elegant solutions.
+
+- 🎯 **Focus**: Building production-grade applications with clean architecture
+- 💡 **Mindset**: Continuous learner, passionate problem solver, innovation-driven
+- 🚀 **Currently Working On**: Advanced web performance optimization & cloud technologies
+- 📚 **Interests**: System Design
+
+<br/>
+
+🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruva-tajapara-2967a5378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,24 +33,9 @@
   <a href="https://youtube.com/@dhruvatajapara-k3v?si=VN4V4VdhDGPIGPm9" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+
 </p>
 
----
-
-## 👋 Hello, I'm Dhruva!
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif">
-
-I'm a **Full Stack Developer** with a passion for building scalable, high-performance web applications. With expertise in modern technologies and a strong foundation in computer science fundamentals, I transform complex problems into elegant solutions.
-
-- 🎯 **Focus**: Building production-grade applications with clean architecture
-- 💡 **Mindset**: Continuous learner, passionate problem solver, innovation-driven
-- 🚀 **Currently Working On**: Advanced web performance optimization & cloud technologies
-- 📚 **Interests**: System Design
-
-<br/>
-
----
 
 ## 🔥 Skills & Tech Stack
 
@@ -106,42 +107,9 @@ I'm a **Full Stack Developer** with a passion for building scalable, high-perfor
 </div>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruva-tajapara-2967a5378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Dhruva_Tajapara" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/TajaparaDhruva" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://youtube.com/@dhruvatajapara-k3v?si=VN4V4VdhDGPIGPm9" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-
-</p>
-
-
----
-
 ## 💭 Developer Thoughts
 
 > "Code is not just about making things work. It's about making them work beautifully, efficiently, and with purpose."
-
----
-
-## 📈 Current Learning Path
-
-```
-├── 🚀 Mastering System Design & Architecture
-├── 🤖 Exploring AI/ML Integration in Web Apps
-├── ☁️ Advanced DevOps & Cloud Technologies
-└── 📱 Mobile Development (React Native)
-```
 
 ---
 
