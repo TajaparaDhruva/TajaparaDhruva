@@ -76,11 +76,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TajaparaDhruva&show_icons=true&theme=tokyonight"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TajaparaDhruva&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TajaparaDhruva&layout=compact&theme=tokyonight"/>
+
 
 </div>
 
