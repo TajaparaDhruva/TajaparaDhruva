@@ -8,26 +8,32 @@
 </div>
 
 ---
-<h1>👋 Hey, I'm Dhruva</h1>
+
+<h1 align="center">👩‍💻 ABOUT ME</h1>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="left" valign="middle">
-        💻 Full Stack Developer <br>
-        🚀 Building scalable web apps <br>
-        🧠 Learning System Design <br>
-        🔥 Passionate about coding
-      </td>
-      <td align="center" valign="middle">
-        <img 
-          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5hMThhcmVncGFzZGg5d3Z3ZXV4dTZteTI1b2o4c2N3bnV6d2Y5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" 
-          width="280" 
-        />
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td width="55%">
+
+- 💻 Passionate Full Stack Developer  
+- 🚀 Exploring Backend & System Design  
+- 🛠️ Building scalable real-world applications  
+- 🎨 Focused on clean UI & performance  
+- 🧠 Strong in DSA & problem solving  
+- 🤝 Love teamwork & collaboration  
+- 🌱 Always learning new tech  
+- ✨ Creative + Logical thinker  
+
+</td>
+
+<td width="45%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+</tr>
+</table>
 </div>
+
 ---
 
 ## 🌐 Connect With Me
@@ -75,29 +81,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TajaparaDhruva&theme=tokyonight"/>
-
-
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TajaparaDhruva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bb9af7&text_color=c0caf5" height="180"/>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TajaparaDhruva&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" height="180"/>
 </div>
 
 ---
 
-## 🚀 Coding Profiles
+## 🔥 GitHub Streak
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💻 LeetCode | [View Profile](https://leetcode.com/u/DhruvaTajapara/) |
-| ⚡ Codeforces | [View Profile](https://codeforces.com/profile/DhruvaTajapra) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TajaparaDhruva&theme=tokyonight"/>
 
 </div>
 
 ---
+
 
 ## 💭 Developer Thought
 
