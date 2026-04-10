@@ -50,6 +50,10 @@
   <a href="https://youtube.com/@dhruvatajapara-k3v">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+<a href="https://github.com/TajaparaDhruva/TajaparaDhruva/raw/main/Dhruva%20Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-667eea?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
 
 ---
